@@ -12,7 +12,9 @@
     "posttest": "rimraf ./src/database/database.test.sqlite"
   },
   "dependencies": {
+    "@types/node": "^14.14.31",
     "@types/nodemailer": "^6.4.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "handlebars": "^4.7.7",
     "nodemailer": "^6.4.18",

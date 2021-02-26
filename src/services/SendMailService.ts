@@ -4,14 +4,15 @@ import fs from 'fs';
 
 class SendMailService {
     private client: Transporter;
+
     constructor() {
         nodemailer.createTestAccount().then((account) => {
             const transporter = nodemailer.createTransport({
-                host: "smtp.mailtrap.io",
-                port: 2525,
+                host: process.env.SMTP_HOST,
+                port: Number(process.env.SMTP_PORT),
                 auth: {
-                  user: "1cdb2e61e880f0",
-                  pass: "66da435bd6dc08"
+                  user: process.env.SMTP_USER,
+                  pass: process.env.SMTP_PASS
                 }
             });
 
