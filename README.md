@@ -21,7 +21,7 @@ Projeto desenvolvido durante a trilha de Node.js no evento NLW#04 da Rocketseat 
 
 ## :rocket: Tecnologias ##
 
-As principais ferramentas usadas na construção desse projeto:
+As principais ferramentas usadas:
 
 <a href="https://nodejs.org/en/">
   <img width="50" title="Nodejs" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
