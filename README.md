@@ -89,7 +89,7 @@ acesse <http://localhost:3333>
 
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+[LICENSE](LICENSE.md)
 
 &#xa0;
 
