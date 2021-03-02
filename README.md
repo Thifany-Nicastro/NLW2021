@@ -87,10 +87,6 @@ $ yarn dev
 acesse <http://localhost:3333>
 ```
 
-## :memo: Licença ##
-
-[LICENSE](LICENSE.md)
-
 &#xa0;
 
 <a href="#top">Voltar para o topo</a>
