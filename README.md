@@ -66,7 +66,9 @@ As principais ferramentas usadas na construção desse projeto:
 
 ## :white_check_mark: Pré-requisitos ##
 
-Antes de começar, você vai precisar ter o [Git](https://git-scm.com), [Node](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) instalados :computer:
+- [Git](https://git-scm.com)
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 
 ## :checkered_flag: Instalação ##
 
