@@ -10,7 +10,7 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré-requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-instalação">Instalação</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-instalação">Instalação</a> &#xa0;
 </p>
 
 <br>
