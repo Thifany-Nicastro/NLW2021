@@ -9,10 +9,8 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza" target="_blank">Autor</a>
+  <a href="#white_check_mark-pré-requisitos">Pré-requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-instalação">Instalação</a> &#xa0; | &#xa0;
 </p>
 
 <br>
@@ -66,11 +64,11 @@ As principais ferramentas usadas na construção desse projeto:
 
 - [x] Calculo do NPS e validações
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré-requisitos ##
 
 Antes de começar, você vai precisar ter o [Git](https://git-scm.com), [Node](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) instalados :computer:
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Instalação ##
 
 ```bash
 # Clone este repositório
